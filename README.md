@@ -10,7 +10,7 @@ Android developer, Backend Developer, Designer
 *   🚀  I'm currently working on [my Google Play Profile](http://play.google.com/store/games)
 *   🧠  I'm learning Android and Golang
 *   🤝  I'm open to collaborating on Startups and interesting projects
-*   
+
 ### Skills 
 <p align="left">
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
