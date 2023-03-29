@@ -7,7 +7,7 @@ Android developer, Backend Developer, Designer
 *   🌍  I'm based in Tajikistan, Khujand
 *   🖥️  See my portfolio at [ilhomsoliev.io](http://ilhomsoliev.github.io)
 *   ✉️  You can contact me at [solievoliver@gmail.com](mailto:solievoliver@gmail.com)
-*   🚀  I'm currently working on [my Google Play Profile](http://play.google.com/store/games)
+*   🚀  I'm currently working on [my Google Play Profile](https://play.google.com/store/apps/dev?id=5054746615309927467)
 *   🧠  I'm learning Android and Golang
 *   🤝  I'm open to collaborating on Startups and interesting projects
 
