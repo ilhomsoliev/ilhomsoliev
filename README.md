@@ -5,7 +5,6 @@ Android and Backend Developer, Designer
 ----------------------------------------------
 
 *   🌍  I'm based in Russia, Saint Petersburg
-*   🖥️  See my portfolio at [ilhomsoliev.io](http://ilhomsoliev.github.io)
 *   ✉️  You can contact me at [soliev.ilhom.2005@gmail.com](mailto:soliev.ilhom.2005@gmail.com) and also on Telegram: [@ilhom_soliev]
 *   🚀  I'm currently working on [my Google Play Profile](https://play.google.com/store/apps/dev?id=5054746615309927467)
 *   🧠  I'm learning Android and Golang
