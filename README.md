@@ -8,7 +8,7 @@ Android and Backend Developer
 
 *   🌍  I'm based in Russia, Saint Petersburg
 *   ✉️  You can contact me at [soliev.ilhom.2005@gmail.com](mailto:soliev.ilhom.2005@gmail.com) and also on Telegram: [@ilhom_soliev]
-*   🚀  I'm currently working on [my Google Play Profile](https://play.google.com/store/apps/dev?id=5054746615309927467) and on [this project, Speaking Club](https://play.google.com/store/apps/details?id=com.speakingclub.app)
+*   🚀  I'm currently working on [my Google Play Profile](https://play.google.com/store/apps/dev?id=5054746615309927467) and on [Speaking Club](https://play.google.com/store/apps/details?id=com.speakingclub.app)
 *   🧠  I'm learning Android Development and Golang
 *   🤝  I'm open to collaborating on Startups and interesting projects
 
