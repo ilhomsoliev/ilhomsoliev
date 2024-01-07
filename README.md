@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilhomsoliev&label=Profile%20views&color=0e75b6&style=flat" alt="ilhomsoliev" /> </p>
 
 Native Android
-----------------------------------------------
+---------------------------------------------
 
 *   🌍  I'm based in Russia, Saint Petersburg
 *   ✉️  You can contact me at [soliev.ilhom.2005@gmail.com](mailto:soliev.ilhom.2005@gmail.com) and also on Telegram: [@ilhom_soliev]
