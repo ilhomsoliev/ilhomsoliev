@@ -11,7 +11,6 @@ Native Android
 
 ---------------------------------------------------
 
-*   🌍  I'm based in Russia, Saint Petersburg
 *   ✉️  You can contact me at [soliev.ilhom.2005@gmail.com](mailto:soliev.ilhom.2005@gmail.com) and also on Telegram: [@ilhom_soliev]
 *   🚀  I'm currently working on [my Google Play Profile](https://play.google.com/store/apps/dev?id=5054746615309927467) and [Speaking Club](https://play.google.com/store/apps/details?id=com.speakingclub.app)
 *   🧠  I'm learning Android Development and Golang
